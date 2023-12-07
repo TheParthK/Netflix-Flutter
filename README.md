@@ -3,6 +3,10 @@
 A new Flutter project.
 An app that shows you movie and show details in a beautiful, interactive and responsive UI with search functionality along with an animated splash screen and a beta trailer player option
 
+# Screen Recordings
+Checkout the Screen Recordings
+https://drive.google.com/drive/folders/1eSZQKDHPGr3x3FVhGXAIXwvBwTant82D?usp=share_link
+
 # Screenshots
 
 <table>
