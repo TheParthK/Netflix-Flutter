@@ -1,7 +1,7 @@
 # Netflix Flutter
 
 A new Flutter project.
-An app that shows you movie and show details in a beautiful, interactive and responsive UI with search functionality and a beta trailer player option
+An app that shows you movie and show details in a beautiful, interactive and responsive UI with search functionality along with an animated splash screen and a beta trailer player option
 
 # Screenshots
 
