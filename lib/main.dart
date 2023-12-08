@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:netflix/screens/landing_page.dart';
-// import 'package:netflix/screens/landing_page.dart';
-import 'package:netflix/screens/splash_screen.dart';
+import 'package:netflix/screens/landing_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,7 +20,8 @@ class MyApp extends StatelessWidget {
         colorScheme: const ColorScheme.dark()
       ),
       debugShowCheckedModeBanner: false,
-      home: SplashScreen(),
+      // home: SplashScreen(),
+      home: LandingPage(),
     );
   }
 }
